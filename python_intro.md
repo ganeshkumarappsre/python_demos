@@ -18,7 +18,15 @@
 - Easily readible ==> Easy to use, Easy to maintain
 
 #### Significant Indentation
-- Part of Syntax, not mere readibility 
+- Part of Syntax, not mere readibility
 
+#### Dynamically Typed
+- Need not declare type of variable 
+- Variable can have different types at different times of execution 
+- Variable type decided at runtime 
+
+#### Garbage Collected
+- Automatic Memory Management process, reclaims memory allotted but no longer used
+- No need to manually de-allocate memory 
 
 
