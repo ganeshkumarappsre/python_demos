@@ -17,3 +17,7 @@
 - Open installed Pycharm to see
 ![image](https://github.com/user-attachments/assets/dc2cf8ca-064f-450e-a7b7-81dcbddf2319)
 
+#### Python Shell
+
+- Open Python app installed to see
+  ![image](https://github.com/user-attachments/assets/c11193ca-171c-45e7-9949-678cfef1786b)
